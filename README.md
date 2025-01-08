@@ -21,10 +21,6 @@ Issue Tracker is a web application designed to help teams manage and track bugs,
 ## Setup Instructions
 
 1. Clone the repository:
-   \`\`\`
-   git clone https://github.com/your-username/issue-tracker.git
-   cd issue-tracker
-   \`\`\`
 
 2. Install dependencies:
    \`\`\`
