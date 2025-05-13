@@ -56,9 +56,6 @@ Issue Tracker is a web application designed to help teams manage and track bugs,
 - Notifications: Implement an email notification system for issue updates and assignments.
 - Analytics: Add a reporting feature to visualize issue trends and team performance.
 
-## Contributing
-
-Contributions to the Issue Tracker project are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
