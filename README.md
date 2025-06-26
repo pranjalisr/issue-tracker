@@ -23,14 +23,14 @@ Issue Tracker is a web application designed to help teams manage and track bugs,
 1. Clone the repository:
 
 2. Install dependencies:
-   \`\`\`
+  
    npm install
-   \`\`\`
+  
 
 3. Run the development server:
-   \`\`\`
+  
    npm run dev
-   \`\`\`
+  
 
 4. Open your browser and navigate to \`http://localhost:3000\` to view the application.
 
