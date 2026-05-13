@@ -32,7 +32,7 @@ Issue Tracker is a web application designed to help teams manage and track bugs,
    npm run dev
   
 
-4. Open your browser and navigate to \`http://localhost:3000\` to view the application.
+4. Open your browser and navigate to `http://localhost:3000` to view the application.
 
 ## Usage Instructions
 
